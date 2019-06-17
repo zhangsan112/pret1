@@ -13,6 +13,7 @@ public class App {
     }
 
     public class Aut {
+        private String name;
         System.out.println("Hello World!");
     }
 }
